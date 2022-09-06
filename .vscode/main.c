@@ -13,4 +13,5 @@ scanf("%f", &b);
 c = pow(a+b, 2);
 
 printf("A + B elevado ao quadrado e igual a: %f", c);
+
 }
